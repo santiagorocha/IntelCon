@@ -30,5 +30,5 @@ This script will import the pytesseract. Pytesseract is an Optical Character Rec
 
 This is a basic Scraper that will parse all section hyperlinks in an online forum. Also will retrieve certain information from a post and show to the user. This is an example of how to crawl and extract valuable information that can be further analyzed to generate CTI assets.
 
-** For more detailed information you can see the pdf attached to this repository which are the slides for my talk **
+**For more detailed information you can see the pdf attached to this repository which are the slides for my talk**
 
